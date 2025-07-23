@@ -2,6 +2,16 @@
 This project is an end-to-end Automatic Number Plate Recognition (ANPR) system that uses YOLOv9 for vehicle and number plate detection and OCR (Optical Character Recognition) for extracting text from license plates. It is designed to work with videos or images and is capable of detecting and recognizing number plates with high accuracy.
 
 
+
+🎥 Demo Output:
+https://drive.google.com/drive/u/0/folders/1BFw765zc6s7N01JFRufRRUFrOBr6oKGL
+
+
+
+
+
+
+
 🚘 Automatic Number Plate Recognition (ANPR) using YOLOv9 and OCR
 This project implements an Automatic Number Plate Recognition (ANPR) pipeline using YOLOv9 for license plate detection and OCR (EasyOCR) for extracting text from the plates. It supports both image and video inputs and is built to work efficiently with real-world traffic footage.
 
